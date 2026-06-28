@@ -1,0 +1,6 @@
+{
+  "name": "Fresh Kart",
+  "description": "An AI-powered full-stack organic grocery e-commerce app featuring secure checkout, live order tracking, notification hubs, interactive admin logistics dashboards, and smart restocking forecasts using Gemini API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
